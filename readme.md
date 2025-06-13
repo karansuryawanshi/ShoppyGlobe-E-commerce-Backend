@@ -44,8 +44,8 @@ shoppyglobe-backend/
 ## ⚙️ Setup Instructions
 
 ```bash
-git clone
-cd shoppyglobe-backend
+git clone https://github.com/karansuryawanshi/ShoppyGlobe-E-commerce-Backend
+cd ShoppyGlobe-E-commerce-Backend
 npm install
 npm start                 # Start with nodemon
 ```
